@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'portfolio',
+    'portfolio.onrender.com'
 ]
 
 # Add CSRF trusted origins for Render domains
